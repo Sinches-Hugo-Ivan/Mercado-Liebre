@@ -3,6 +3,11 @@
 
 # Mercado Liebre
  Proyecto para ser mejor que la competencia , vamos Mercado Liebre
+>
+En esta oportunidad, comenzamos a trabajar para la vista móvil.
+Para poder visualizar lo que estamos haciendo como si fuera un teléfono móvil,
+utilizaremos la dev tool de nuestro navegador favorito.
+
  
 
 ### DESARROLLADOR:
